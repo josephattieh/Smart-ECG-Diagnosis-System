@@ -1,0 +1,8 @@
+pymongo
+datetime
+regex
+flask
+wfdb
+py-ecg-detectors
+dnspython
+scipy
